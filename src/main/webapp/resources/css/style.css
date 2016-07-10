@@ -1,0 +1,41 @@
+
+#caption{
+    text-align: center;
+    border: 2px solid black;
+}
+
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+    border: 2px solid black;
+}
+
+body {
+    background-color: #d5efff;
+}
+
+h1 {
+    color: #d715ff;
+    text-align: center;
+}
+h3 {
+    color: black;
+    text-align: center;
+    font-size: smaller;
+}
+label {
+    color: blue;
+    font-size: large;
+}
+div.errors {
+    background-color: #ffcccc;
+    border: 2px solid red;
+}
+
+label.error {
+    color: red;
+}
+
+input.error {
+    background-color: #ffcccc;
+}
